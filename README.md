@@ -1,4 +1,4 @@
-# Spider-Man | Multiversos Web Page Documentation
+# Spider-Man | Web Page Documentation
 
 ## Overview
 
